@@ -11,4 +11,7 @@
     - Wiki Page
       - wiki page will track packaging process
       - make sure to assign yourself packages bu writing your name/username under packager
+      - [link to wiki page](https://fedoraproject.org/wiki/SIGs/PyTorch/packagingStatus)
+
+Link to [fedora discussion thread](https://discussion.fedoraproject.org/t/pytorch-dependency-packaging-9-14-meeting/90205)
 
