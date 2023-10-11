@@ -1,4 +1,4 @@
-Notes
+**Meeting Summary 9/28/23**
 - Continue on [PyTorch Dependency Packaging owner list](https://fedoraproject.org/wiki/SIGs/PyTorch/packagingStatus#PyTorch_Dependency_Packaging)
 - The list may have issues, please update it if you find anything WRT bits which are not needed or not package-able for Fedora
   - cutlass, cudnn_frontend were raised as concerns as they require CUDA
